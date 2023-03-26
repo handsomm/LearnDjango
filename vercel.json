@@ -24,7 +24,7 @@
         },
         {
             "src": "/(.*)",
-            "dest": "studubud/wsgi.py"
+            "dest": "studybud/wsgi.py"
         }
     ]
 }
